@@ -2,10 +2,9 @@ permalink: /
 title: "Tewelde Berihu | Atmospheric Scientist"
 author_profile: true
 redirect_from:
-
-/about/
-
-/about.html
+  - /about/
+  - /about.html
+---
 
 Welcome to the academic website of Tewelde Berihu, Ph.D., an atmospheric scientist and meteorologist at the Faculty of Meteorology and Hydrology, Institute of Water Technology, Arba Minch University, Ethiopia.
 
