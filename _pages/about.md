@@ -41,4 +41,4 @@ Contact
 
 For academic correspondence, research collaboration, and other professional enquiries, please contact me at:
 
-Email: tewelde.berihu@amu.edu.etguration/) (which this theme was forked from) might also be helpful.
+**Email:** [tewelde.berihu@amu.edu.et](mailto:tewelde.berihu@amu.edu.et)
