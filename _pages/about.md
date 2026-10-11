@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tewelde Berihu | Atmospheric Scientist"
+
 author_profile: true
 redirect_from:
   - /about/
